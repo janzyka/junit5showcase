@@ -3,7 +3,7 @@ package com.zyka.junit5.sample;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class T04_MultipleAssertsTest {
+public class T03_MultipleAssertsTest {
 
     @Test
     public void testMultipleThings() {

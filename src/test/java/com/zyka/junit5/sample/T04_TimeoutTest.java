@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
-public class T05_TimeoutTest {
+public class T04_TimeoutTest {
 
     @ParameterizedTest
     @ValueSource(ints = {100, 300})

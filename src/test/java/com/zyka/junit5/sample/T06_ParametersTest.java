@@ -8,7 +8,7 @@ import org.junit.jupiter.params.provider.CsvFileSource;
 import org.junit.jupiter.params.provider.MethodSource;
 import org.junit.jupiter.params.provider.ValueSource;
 
-public class T03_ParametersTest {
+public class T06_ParametersTest {
 
     @ParameterizedTest(name = "{index} => First name=''{0}''")
     @ValueSource(strings = {"Pavel", "Pepa"})
